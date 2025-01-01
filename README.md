@@ -2,7 +2,6 @@
 
 ### Note: Alt Account of @hoangsonww
 
-
 ## Sections
 - [Introduction](#introduction)
 - [Skills and Knowledge](#skills-and-knowledge)
